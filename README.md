@@ -7,5 +7,5 @@ Java applet snake game
 
 - `Point` - Which help in x and y axis .
 - `Snake` -  The snake movements, increasing and collision   .
-- `Token` - food that makes snake be longer and increase its speed and calculate score too .
-- `SnakeGame` - The applet application that have the game itself (start - board - gameover -keys).
+- `Token` - food that makes snake be longer.
+- `SnakeGame` - The applet application that have the game itself (start - board - gameover -keys - snake speed - score).
